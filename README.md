@@ -21,9 +21,9 @@ I'm a game developer from Austin, Texas. Design is mostly my strongsuit, but I'm
  - Beat Saber
   
 # Contact
-Discord: FireSquid#4004 (I decline most friend requests since I get a lot of spam, so join the [Gamemaker Discord](https://discord.gg/gamemaker) to DM me or use another form of contact.)
-Email: jonathandeiss2006@gmail.com
-[Steam](https://steamcommunity.com/id/firesquid/)
+Discord: FireSquid#4004 (Join the [Gamemaker Discord](https://discord.gg/gamemaker) to DM me since my account isn't open to all dms.)  
+Email: jonathandeiss2006@gmail.com  
+[Steam](https://steamcommunity.com/id/firesquid/)  
   
 # My Projects
 ## [Ajax Corps](https://github.com/FireSquid6/ajax_corps)

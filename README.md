@@ -27,10 +27,10 @@ Discord: FireSquid#4004 (Join the [Gamemaker Discord](https://discord.gg/gamemak
   
 # My Projects
 ## [Ajax Corps](https://github.com/FireSquid6/ajax_corps)
-Ajax Corps is a top-down action shooter that started development in late May of 2021. It is in early alpha as of July 2021 and I would expect it to be out around October or November. Check the github for it to play pre-release versions or eventually the full release once it's out.
+Ajax Corps is a top-down action shooter that started development in late May of 2021. It is in early alpha as of July 2021 and I would expect it to be out around October or November. Check the github for it to play pre-release versions or eventually the full release once it's out. I'll post links to design docs in the future
   
 ## [ModUI](https://github.com/FireSquid6/modui)
-ModUI is a modular UI library for GMS2. There's a ton of UI Libraries for GMS2, and this one is mostly for personal use but I'm gonna put it out to the public once it's done. It's built around the ability to easily modify and "plugin" extra functions to each UI element while still having the library do most of the heavy lifting.  
+ModUI is my personal UI library for GMS2. It's built around the ability to easily modify and "plugin" extra functions to each UI element while still having the library do most of the heavy lifting. Stuff like animation and custom effects should be pretty easy with this UI system. It's also only a single script, so if you're already using the dependencies you can just copy and paste it into your project. (Yes I know the world doesn't need anymore GML UI libraries)
   
  ## [Ultima BR](https://github.com/beegyfleeg/ultima)
  I helped do some of the map design for a minecraft minigame [beegyfleeg](https://github.com/beegyfleeg) made.  

@@ -1,5 +1,24 @@
 # About
-I'm a game developer from Austin, Texas. Design is mostly my strongsuit, but I'm an intermediate Gamemaker Studio 2 programmer as well. I'm still in high school but would like to study game design at a higher level in college and continue to learn programming and music theory.
+I'm a game developer from Austin, Texas. Design is mostly my strongsuit, but I'm an intermediate Gamemaker Studio 2 programmer as well. I used to be a competitive Splatoon 2 player, but quit to focus on studying game design and working on my programming skills. While playing splatoon I grew fond of studying multiplayer games and the interlocking systems within them with a team, and one day hope to create a game that will give that experience to another generation of players.  
+  
+ Some of my favorite games are:  
+ - Cyber Manhunt
+ - Into the Breach
+ - Terraria
+ - Starbound (modded ofc)
+ - Ghostrunner
+ - The Pedestrian
+ - All of the Half Life and Portal games
+ - Minecraft
+ - One Step from Eden
+ - Enter the Gungeon
+ - Wargroove
+ - Hades
+ - Project Highrise
+ - Teamfight Manager
+ - Subnautica
+ - Stardew Valley
+ - Beat Saber
   
 # Contact
 Discord: FireSquid#4004  

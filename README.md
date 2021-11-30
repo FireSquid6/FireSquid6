@@ -27,11 +27,17 @@ I'm a game developer from Austin, Texas. Design is mostly my strongsuit, but I'm
 [Steam](https://steamcommunity.com/id/firesquid/)  
   
 # My Projects
+## [Function Factory](https://github.com/FireSquid6/Function-Factory)
+Function Factory is a game I developed from October of 2021 - idk when as of writing this I haven't completed it. It's a math based puzzle game that's easier to show than tell, so click the link for more info. 
+  
+## [Teleorb](https://github.com/FireSquid6/teleorb)
+Teleorb is a platformer I developed in the summer of 2021. It uses the main mechanic of an orb inspired by the minecraft enderpearl to get you around. It has a lot of underlying design and technical issues, but was the first game I finished, and one I plan to revisit one day.
+  
 ## [Ajax Corps](https://github.com/FireSquid6/ajax_corps)
-Ajax Corps is a top-down action shooter that started development in late May of 2021. It is in early alpha as of July 2021 and I would expect it to be out around October or November. Check the github for it to play pre-release versions or eventually the full release once it's out. I'll post links to design docs in the future
+Ajax Corps is a top-down action shooter that started development in late May of 2021. In late June of 2021 I quickly salvaged what I could out of the project and pro 
   
 ## [ModUI](https://github.com/FireSquid6/modui)
-ModUI is my personal UI library for GMS2. It's built around the ability to easily modify and "plugin" extra functions to each UI element while still having the library do most of the heavy lifting. Stuff like animation and custom effects should be pretty easy with this UI system. It's also only a single script, so if you're already using the dependencies you can just copy and paste it into your project. (Yes I know the world doesn't need anymore GML UI libraries)
+ModUI is my personal UI library for GMS2. It's built around the ability to easily modify and "plugin" extra functions to each UI element while still having the library do most of the heavy lifting. Stuff like animation and custom effects should be pretty easy with this UI system. (Yes I know the world doesn't need anymore GML UI libraries)
   
  ## [Ultima BR](https://github.com/beegyfleeg/ultima)
  I helped do some of the map design for a minecraft minigame [beegyfleeg](https://github.com/beegyfleeg) made.  

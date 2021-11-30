@@ -34,7 +34,7 @@ Function Factory is a game I developed from October of 2021 - idk when as of wri
 Teleorb is a platformer I developed in the summer of 2021. It uses the main mechanic of an orb inspired by the minecraft enderpearl to get you around. It has a lot of underlying design and technical issues, but was the first game I finished, and one I plan to revisit one day.
   
 ## [Ajax Corps](https://github.com/FireSquid6/ajax_corps)
-Ajax Corps is a top-down action shooter that started development in late May of 2021. In late June of 2021 I quickly salvaged what I could out of the project and pro 
+Ajax Corps is a top-down action shooter that started development in late May of 2021. In late June of 2021 I quickly salvaged what I could out of the project and finished the levels I had, since my original design plan for it failed. As of Nobember of 2021 I am writing up a design doc for a game similar to it that I will make in Godot. 
   
 ## [ModUI](https://github.com/FireSquid6/modui)
 ModUI is my personal UI library for GMS2. It's built around the ability to easily modify and "plugin" extra functions to each UI element while still having the library do most of the heavy lifting. Stuff like animation and custom effects should be pretty easy with this UI system. (Yes I know the world doesn't need anymore GML UI libraries)

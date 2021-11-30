@@ -1,28 +1,33 @@
 # About
-I'm a game developer from Austin, Texas. Design is mostly my strongsuit, but I'm an intermediate Gamemaker Studio 2 programmer as well. I used to be a competitive Splatoon 2 player, but quit to focus on studying game design and working on my programming skills. While playing splatoon I grew fond of studying multiplayer games and the interlocking systems within them with a team, and one day hope to create a game that will give that experience to another generation of players.  
+I'm a game developer from Austin, Texas. Design is mostly my strongsuit, but I'm a fairly decent Gamemaker Studio 2 programmer as well and am learning Godot. I used to be a competitive Splatoon 2 player, but quit to focus on studying game design and working on my programming and design skills. While playing splatoon I grew fond of studying multiplayer games and the interlocking systems within them with a team, and one day hope to create a game that will give that experience to another generation of players.  
   
  Some of my favorite games are:  
  - Cyber Manhunt
  - Into the Breach
  - Terraria
- - Starbound (modded ofc)
+ - Starbound
  - Ghostrunner
  - The Pedestrian
  - All of the Half Life and Portal games
  - Minecraft
  - One Step from Eden
  - Enter the Gungeon
- - Wargroove
- - Hades
  - Project Highrise
  - Teamfight Manager
  - Subnautica
  - Stardew Valley
- - Beat Saber
+ - This War of Mine
+ - Hotline Miami 1 and 2
+ - The Orwell Games
+ - This War of Mine
+ - Ultrakill
+ - Celeste
+ - Splitgate
+ - Splatoon 2
   
 # Contact
 [Website](https://firesquid6.github.io)  
-[Discord](https://discord.gg/HCqHcRWRZE) (This will redirect you to a server where you can send me a direct message)  
+[Discord](https://discord.gg/HCqHcRWRZE) (This will redirect you to a server where you can send me a direct message
 [Email](mailto:jonathandeiss2006@gmail.com)  
 [Steam](https://steamcommunity.com/id/firesquid/)  
   

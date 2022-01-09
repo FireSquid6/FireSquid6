@@ -3,27 +3,21 @@ I'm a game developer from Austin, Texas. Design is mostly my strongsuit, but I'm
   
  Some of my favorite games are:  
  - Cyber Manhunt
+ - Omori
  - Into the Breach
  - Terraria
- - Starbound
  - Ghostrunner
  - The Pedestrian
  - All of the Half Life and Portal games
  - Minecraft
- - One Step from Eden
- - Enter the Gungeon
- - Project Highrise
- - Teamfight Manager
- - Subnautica
- - Stardew Valley
- - This War of Mine
+ - Lacuna
  - Hotline Miami 1 and 2
  - The Orwell Games
- - This War of Mine
  - Ultrakill
  - Celeste
- - Splitgate
  - Splatoon 2
+ - Road 96
+ - Noita
   
 # Contact
 [Website](https://firesquid6.github.io)  

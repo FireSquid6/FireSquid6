@@ -1,5 +1,5 @@
 # About
-I'm a game developer from Austin, Texas. Design is mostly my strongsuit, but I'm a fairly decent Gamemaker Studio 2 programmer as well and am learning Godot. I used to be a competitive Splatoon 2 player, but quit to focus on studying game design and working on my programming and skills. While playing splatoon I grew fond of studying multiplayer games and the interlocking systems within them with a team, and one day hope to create a game that will give that experience to another generation of players.  
+I'm a game developer from Austin, Texas. Design is mostly my strongsuit, but I'm a fairly decent Gamemaker Studio 2 programmer as well and am learning Godot. I used to be a competitive Splatoon 2 player, but quit to focus on studying game design and working on my programming and skills.
   
  Some of my favorite games are:  
  - Cyber Manhunt
@@ -56,4 +56,14 @@ Ajax Corps is a top-down action shooter that started development in late May of 
 ModUI is my personal UI library for GMS2. (by personal I mean I'm making up an excuse for the nonexistant documentation) It's built around the ability to easily modify and "plugin" extra functions to each UI element while still having the library do most of the heavy lifting. Stuff like animation and custom effects should be pretty easy with this UI system. (Yes I know the world doesn't need anymore GML UI libraries)
   
 
-
+# My Skills
+- Minor programming skills in GDScript
+- Minor programming skills in C#
+- Programming in Python
+- Programming in GML
+- Level and systems design in Godot
+- Level and systems design in Gamemaker Studio 2
+- Creating and maintaining GDD's
+- Tileset creation with Tiled (I'm not the best artist, although I could definitely help a skilled one create tilesets quickly and efficiently)
+- Teamwork and collaboration using Github and/or Trello
+- """passable""" pixel art skills

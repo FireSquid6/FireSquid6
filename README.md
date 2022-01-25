@@ -26,6 +26,12 @@ I'm a game developer from Austin, Texas. Design is mostly my strongsuit, but I'm
 [Steam](https://steamcommunity.com/id/firesquid/)  
   
 # My Projects
+## [Slippy Slider](https://ginga.games/)
+I worked with Ginga Games as a level designer to create a webgame called Slippy Slider. You can view it on their website once it's out. I created levels 2 and 6 as well as a minor amount of programming when needed.
+
+*Screenshots will be added once the game is released*
+
+
 ## [Teleorb](https://github.com/FireSquid6/teleorb)
 Teleorb is a platformer I developed in the summer of 2021. It uses the main mechanic of an orb inspired by the minecraft enderpearl to get you around. Levels are similar to celeste in that they are designed to have the player use their abilities in a creative way to complete them, but also have an element of speed, similar to the way the good sonic games are built. It only has 1 complete level made up of several rooms, but I plan to rebuild the project in Godot at some point to add more to it.
   

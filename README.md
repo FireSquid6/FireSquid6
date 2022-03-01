@@ -1,5 +1,5 @@
 # About
-I'm a game developer from Austin, Texas. Design is mostly my strongsuit, but I'm a fairly decent Gamemaker Studio 2 programmer as well and am learning Godot. I used to be a competitive Splatoon 2 player, but quit to focus on studying game design and working on my programming and skills.
+I'm a game developer from Austin, Texas. Design is mostly my strongsuit, but I'm also capable of working in Gamemaker and Godot, as well as other languages such as Python. I used to be a competitive Splatoon 2 player, but quit to focus on studying game design and working on my programming and skills.
   
  Some of my favorite games are:  
  - Cyber Manhunt
